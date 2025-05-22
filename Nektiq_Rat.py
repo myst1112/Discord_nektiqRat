@@ -84,7 +84,7 @@ def auto_update_loop():
             pass
         time.sleep(UPDATE_INTERVAL)
 
-threading.Thread(target=auto_update_loop, daemon=True).start()
+#threading.Thread(target=auto_update_loop, daemon=True).start()
 
 # —————————————— УТИЛІТИ ——————————————
 
